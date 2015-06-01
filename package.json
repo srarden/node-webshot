@@ -20,7 +20,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/brenden/node-webshot.git"
+    "url": "http://github.com/srarden/node-webshot.git"
   },
   "engine": [
     "node >=0.7.00"
