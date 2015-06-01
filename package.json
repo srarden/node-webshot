@@ -1,6 +1,6 @@
 {
   "name": "webshot",
-  "version": "0.17.0",
+  "version": "0.16.0",
   "description": "Easy website screenshots",
   "author": "Brenden Kokoszka",
   "contributors": [
@@ -11,10 +11,6 @@
     {
       "name": "Matthew Chase Whittemore",
       "email": "mcwhittemore@gmail.com"
-    },
-    {
-      "name": "Scott Rarden",
-      "email": "srarden@gmail.com"
     }
   ],
   "license": "MIT",
@@ -31,7 +27,7 @@
     "tmp": "~0.0.25"
   },
   "optionalDependencies": {
-    "phantomjs": "~2.0"
+    "phantomjs": "~1.9.7-1"
   },
   "devDependencies": {
     "imagemagick": "git://github.com/rsms/node-imagemagick.git",
